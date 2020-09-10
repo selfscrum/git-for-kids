@@ -1,0 +1,3 @@
+[submodule "themes/reveal-hugo"]
+	path = themes/reveal-hugo
+	url = git@github.com-aufiblue:dzello/reveal-hugo.git
