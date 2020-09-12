@@ -30,6 +30,6 @@ jobs:
           user_name: selfscrum
           user_email: git-for-kids@selfscrum.org
           publish_branch: pages
-          cname: git-for-kids.de
+          cname: www.git-for-kids.de
 
           
