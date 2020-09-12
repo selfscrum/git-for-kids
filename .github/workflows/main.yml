@@ -23,13 +23,13 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.TOKEN }}
+          personal_token: ${{ secrets.HUGO }}
           external_repository: selfscrum/git-for-kids.github.io
           publish_dir: ./docs
           keep_files: false
           user_name: selfscrum
           user_email: git-for-kids@selfscrum.org
-          publish_branch: master
+          publish_branch: pages
           cname: git-for-kids.de
 
           
