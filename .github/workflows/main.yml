@@ -24,9 +24,9 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.TOKEN }}
-#          external_repository: selfscrum/git-for-kids
+          external_repository: selfscrum/git-for-kids.github.io
           publish_dir: ./docs
-          keep_files: true
+          keep_files: false
           user_name: selfscrum
           user_email: git-for-kids@selfscrum.org
           publish_branch: master

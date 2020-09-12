@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://gits-for-kids.de/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Git For Kids - Learn to Learn to Learn Git"
 
 theme = "reveal-hugo"
 
@@ -11,3 +11,6 @@ unsafe = true
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
+
+[params.reveal_hugo]
+theme = "moon"
