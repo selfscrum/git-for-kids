@@ -66,6 +66,7 @@ outputs = ["Reveal"]
 <ul>
 <li style ="color: #fff;"> Beginn: KW 39 - Kickoff Zoom</li>
 <li style ="color: #fff;"> Dauer: Bis Jahresende</li>
+<li style ="color: #fff;"> Kosten: 0 EUR</li>
 <li style ="color: #fff;"> Format: Online Meetings, einmal wöchentlich</li>
 <li style ="color: #fff;"> Projekt Chat in telegram, slack o.ä.</li>
 <li style ="color: #fff;"> bitte anmelden bei <a href="mailto:git-for-kids@selfscrum.org" style="color: #056478;">git-for-kids@selfscrum.org</a></li>
