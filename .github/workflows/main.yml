@@ -1,4 +1,4 @@
-name: CI
+name: CommitWebSite
 on: push
 jobs:
   deploy:
