@@ -25,7 +25,7 @@ jobs:
         with:
           personal_token: ${{ secrets.HUGO }}
           external_repository: selfscrum/git-for-kids.github.io
-          publish_dir: .
+          publish_dir: ./doc
           keep_files: true
           user_name: selfscrum
           user_email: git-for-kids@selfscrum.org
