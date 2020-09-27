@@ -1,6 +1,7 @@
 +++
 title = "Learn to Learn to Learn Git"
-outputs = ["Reveal"]
+outputs = ["Reveal"] 
+weight=10
 +++
 
 {{< slide id="hello" background="#F2CA3F" transition="fade" transition-speed="fast" >}}
@@ -41,35 +42,3 @@ outputs = ["Reveal"]
 <li style ="color: #000;"> Einen Guide darüber schreiben</li>
 </ul>
 
----
-
-{{< slide id="Format" background="#FFA060" transition="fade" transition-speed="fast" >}}
-
-<h2 style="color: #fff;">Format</h2>
-
-<a href = "https://cogneon.github.io/lernos/" target="_blank" style="color:#fff;">#lernOS Circle</a>
-
-<ul>
-<li style ="color: #fff;"> W1-4: git und Markdown in einem eigenen Beispiel</li>
-<li style ="color: #fff;"> W5-8: git Konzepte, Tools und Lern-Setting</li>
-<li style ="color: #fff;"> W9-12: lernOS Guide schreiben</li>
-</ul>
-
-<p style="color:#fff;">...oder?</p>
-
----
-
-{{< slide id="Starten" background="#93A1A1" transition="fade" transition-speed="fast" >}}
-
-<h2 style="color: #fff;">Starten</h2>
-
-<ul>
-<li style ="color: #fff;"> Beginn: KW 39 - Kickoff Zoom</li>
-<li style ="color: #fff;"> Dauer: Bis Jahresende</li>
-<li style ="color: #fff;"> Kosten: 0 EUR</li>
-<li style ="color: #fff;"> Format: Online Meetings, einmal wöchentlich</li>
-<li style ="color: #fff;"> Projekt Chat in telegram, slack o.ä.</li>
-<li style ="color: #fff;"> bitte anmelden bei <a href="mailto:git-for-kids@selfscrum.org" style="color: #056478;">git-for-kids@selfscrum.org</a></li>
-</ul>
-
-<a href="https://selfscrum.org"><img src="./selfscrum-label.png" with="200px"/></a>
