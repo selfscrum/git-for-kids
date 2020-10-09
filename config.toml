@@ -1,5 +1,6 @@
 baseURL = "https://www.git-for-kids.de/"
 languageCode = "en-us"
+
 title = "Git For Kids - Learn to Learn to Learn Git"
 
 theme = "reveal-hugo"
